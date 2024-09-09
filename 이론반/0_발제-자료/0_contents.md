@@ -151,5 +151,13 @@
 
 
 ### 7. 이진탐색 (심재혁)
+1. Up-down Game
+2. 이진탐색
+3. 이진탐색 대표유형
+    - 특정 숫자 빠르게 찾기
+    - 특정 숫자 개수 세기
+    - 정수 분배
 - 과제
-    - [백준 2805 - 나무자르기 (S2)](https://www.acmicpc.net/problem/2805)
+    - [백준 1920 - 수 찾기 (S4)](https://www.acmicpc.net/problem/1920)
+    - [백준 16401 - 과자 나눠주기 (S2)](https://www.acmicpc.net/problem/16401)
+    - [백준 2110 - 공유기 설치 (G4)](https://www.acmicpc.net/problem/2110)
